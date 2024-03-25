@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/chen/my_project/AELB/AELB/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/active_perception/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/bspline/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/bspline_opt/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/exploration_manager/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/utils/lkh_tsp_solver/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/local_sensing/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/marker_visual/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/path_searching/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/plan_env/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/plan_manage/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/poly_traj/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/Utils/pose_utils/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/Utils/quadrotor_msgs/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/so3_control/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/so3_disturbance_generator/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/traj_utils/include/**",
+        "/home/chen/my_project/AELB/AELB/src/FUEL-main/uav_simulator/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

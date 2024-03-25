@@ -1,0 +1,25 @@
+NAME : external.4346.tour
+COMMENT : Length = 4346
+COMMENT : Found by LKH [Keld Helsgaun] Tue Mar 19 20:05:13 2024
+TYPE : TOUR
+DIMENSION : 17
+TOUR_SECTION
+1
+5
+4
+3
+2
+6
+10
+7
+8
+9
+13
+17
+16
+12
+14
+11
+15
+-1
+EOF

@@ -1,0 +1,4 @@
+PROBLEM_FILE = /home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/utils/lkh_tsp_solver/resource/external.tsp
+GAIN23 = NO
+OUTPUT_TOUR_FILE =/home/chen/my_project/AELB/AELB/src/FUEL-main/fuel_planner/utils/lkh_tsp_solver/resource/external.txt
+RUNS = 1
